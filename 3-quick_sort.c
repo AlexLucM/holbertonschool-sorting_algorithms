@@ -61,7 +61,7 @@ static void quicksort_recursion(int *array, size_t size, int low, int high)
 
 /**
  * quick_sort - sorts array of integers in ascending order
- * using the quicksort algorithm (Lomuto partition)
+ * using the Quick sort algorithm (Lomuto partition)
  * @array: pointer to array
  * @size: size of array
  */
